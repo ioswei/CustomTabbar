@@ -3,4 +3,4 @@
 技术qq群：637387838
 
 效果图展示：
-![示例](https://github.com/ioswei/SpeechProduct/blob/master/WX20190228-140404%402x.png)
+![示例](https://github.com/ioswei/CustomTabbar/blob/master/showPic.gif)
