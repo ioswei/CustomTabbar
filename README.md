@@ -3,4 +3,5 @@
 技术qq群：637387838
 
 效果图展示：
+
 ![示例](https://github.com/ioswei/CustomTabbar/blob/master/showPic.gif)
